@@ -18,42 +18,6 @@
                     <name>PIC_12F1572</name>
                     <type>2</type>
                 </confElem>
-                <confElem>
-                    <name>XC8_PIC12F609</name>
-                    <type>2</type>
-                </confElem>
-                <confElem>
-                    <name>HT_PIC12F609</name>
-                    <type>2</type>
-                </confElem>
-                <confElem>
-                    <name>XC8_PIC12F675</name>
-                    <type>2</type>
-                </confElem>
-                <confElem>
-                    <name>HT_PIC12F675</name>
-                    <type>2</type>
-                </confElem>
-                <confElem>
-                    <name>XC8_PIC12F1840</name>
-                    <type>2</type>
-                </confElem>
-                <confElem>
-                    <name>HT_PIC12F1840</name>
-                    <type>2</type>
-                </confElem>
-                <confElem>
-                    <name>XC8_PIC12F529T39A</name>
-                    <type>2</type>
-                </confElem>
-                <confElem>
-                    <name>XC8_PIC12LF1840T48A</name>
-                    <type>2</type>
-                </confElem>
-                <confElem>
-                    <name>HT_PIC12LF1840T48A</name>
-                    <type>2</type>
-                </confElem>
             </confList>
             <formatting>
                 <project-formatting-style>false</project-formatting-style>
