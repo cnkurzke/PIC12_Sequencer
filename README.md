@@ -20,9 +20,9 @@ For that reason, I opted to run the entire IDE inside a Virtual Machine. I don't
 This is the minimum configuration for a flashy demo
 
         
-                        +---\/---+
-      5V --+------ VDD  |1*     8|  VSS ------- Ground
-           \-LED-- RA5  |2      7|  Data --- (Programmer)
-                   RA4  |3      6|  Clock -- (Programmer)
-  (Programmer) -- MCLR  |4      5|  RA2
-                        +--------+
+                          +---\/---+
+        5V --+------ VDD  |1*     8|  VSS ------- Ground
+             \-LED-- RA5  |2      7|  Data --- (Programmer)
+                     RA4  |3      6|  Clock -- (Programmer)
+    (Programmer) -- MCLR  |4      5|  RA2
+                          +--------+
